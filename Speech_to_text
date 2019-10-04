@@ -1,7 +1,7 @@
 #Before writing code install following in git bash
 go to following code and download Pyaudio in Scripts folder
 https://www.lfd.uci.edu/~gohlke/pythonlibs/
-Then run=> pip install pyaudio
+Then run=> pip install name_of_file_downloaded_from_above_link
 
 import speech_recognition as sr
 
